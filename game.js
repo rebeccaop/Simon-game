@@ -53,7 +53,7 @@ function checkAnswer(currentLevel){
 
         $("h2").text("Highscore ="+" "+level);
 
-
+         userClickedPattern=[];
        startOver();
   }
 }
